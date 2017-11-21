@@ -1,1 +1,7 @@
 /.idea/
+*.session
+*.py[doc]
+__pycache__/
+/config.json
+/dist
+/*.egg-info
